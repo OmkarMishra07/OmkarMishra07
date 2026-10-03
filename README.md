@@ -61,13 +61,12 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **Seema Drishti** | *[One line about what it does]* | *[Tech used]* | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=drishti) |
-| **Quro** | *[One line about what it does]* | *[Tech used]* | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=quro) |
-| **Verse** | *[One line about what it does]* | *[Tech used]* | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=verse) |
-| **Progex** | *[One line about what it does]* | HTML | [View repo](https://github.com/OmkarMishra07/progex1) |
-| **RETRO** | *[One line about what it does]* | TypeScript | [View repo](https://github.com/OmkarMishra07/RETRO) |
-| **Cab-price-predictor** | Machine learning model that predicts cab fares | Python | [View repo](https://github.com/OmkarMishra07/Cab-price-predictor) |
-| **DevConnect** | *[One line about what it does]* | Java | [View repo](https://github.com/OmkarMishra07/DevConnect) |
+| **Seema Drishti** | AI-powered video surveillance platform with human detection, vehicle number-plate recognition (ANPR), face recognition and live watchlist alerts. I contributed GPU/CPU auto-switching (NVIDIA TensorRT/CUDA, Apple CoreML) and performance optimizations. | Python, PyTorch, TensorRT, OpenCV,WebSockets | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=drishti) |
+| **Quro** | Designed an AI admissions assistant providing grounded responses to fees, eligibility, hostel, documents and deadline queries using RAG
+over college knowledge sources. | CrewAI, Claude API, RAG, Spring Boot | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=quro) |
+| **Verse** | Engineered a full-featured Android music player in Kotlin and Jetpack Compose, featuring a custom iPod-style click-wheel navigation system
+and a glassmorphic, animated dark-themed UI |  Kotlin, Jetpack Compose, Firebase | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=verse) |
+
 
 <p align="center">
   <a href="https://github.com/OmkarMishra07?tab=repositories">📂 See all 29 repositories →</a>
