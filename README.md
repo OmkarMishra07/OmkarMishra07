@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Passionate developer who loves building real-world projects
-- 🔭 Currently working on: Seema Drishti (SIH 2026 shortlisted)
-- 🌱 Currently learning: Agentic AI, RAG
+- 🔭 Currently working on: **Seema Drishti** *(SIH 2026 shortlisted)*
+- 🌱 Currently learning: **Agentic AI, RAG**
 - 💬 Ask me about: **Java, Spring Boot, Python, PostgreSQL, AI-powered apps**
 - 🤝 Open to: collaborations, open-source contributions and internships
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/omkar-mishra-aa5084296)
@@ -61,12 +61,9 @@
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **Seema Drishti** | AI-powered video surveillance platform with human detection, vehicle number-plate recognition (ANPR), face recognition and live watchlist alerts. I contributed GPU/CPU auto-switching (NVIDIA TensorRT/CUDA, Apple CoreML) and performance optimizations. | Python, PyTorch, TensorRT, OpenCV,WebSockets | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=drishti) |
-| **Quro** | Designed an AI admissions assistant providing grounded responses to fees, eligibility, hostel, documents and deadline queries using RAG
-over college knowledge sources. | CrewAI, Claude API, RAG, Spring Boot | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=quro) |
-| **Verse** | Engineered a full-featured Android music player in Kotlin and Jetpack Compose, featuring a custom iPod-style click-wheel navigation system
-and a glassmorphic, animated dark-themed UI |  Kotlin, Jetpack Compose, Firebase | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=verse) |
-
+| **Seema Drishti** | AI-powered video surveillance platform with human detection, vehicle number-plate recognition (ANPR), face recognition and live watchlist alerts. I contributed GPU/CPU auto-switching (NVIDIA TensorRT/CUDA, Apple CoreML) and performance optimizations. | Python, PyTorch, TensorRT, OpenCV, WebSockets | [View repo](https://github.com/Geet-Prince/Seema-Drishti) |
+| **Quro** | AI admissions assistant that gives grounded answers on fees, eligibility, hostel, documents and deadlines using RAG over college knowledge sources. | CrewAI, Claude API, RAG, Spring Boot | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=quro) |
+| **Verse** | Full-featured Android music player with a custom iPod-style click-wheel navigation system and a glassmorphic, animated dark-themed UI. | Kotlin, Jetpack Compose, Firebase | [View repo](https://github.com/OmkarMishra07?tab=repositories&q=verse) |
 
 <p align="center">
   <a href="https://github.com/OmkarMishra07?tab=repositories">📂 See all 29 repositories →</a>
