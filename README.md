@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Passionate developer who loves building real-world projects
-- 🔭 Currently working on: **[add your current project]**
-- 🌱 Currently learning: **[add what you are learning]**
+- 🔭 Currently working on: Seema Drishti (SIH 2026 shortlisted)
+- 🌱 Currently learning: Agentic AI, RAG
 - 💬 Ask me about: **Java, Spring Boot, Python, PostgreSQL, AI-powered apps**
 - 🤝 Open to: collaborations, open-source contributions and internships
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/omkar-mishra-aa5084296)
